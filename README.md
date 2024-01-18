@@ -1,0 +1,1 @@
+EXCHANGE INSIGHT, an innovative machine learning project utilizing Python to predict exchange rates. Employed feature selection and optimized a Random Forest model with hyperparameter tuning, offers a real-time analysis of currency trends using graphs ensuring robust predictions from historical data sourced through freecurrencyapi.com.
